@@ -2,6 +2,7 @@
 Here is the code for the CS 281 Final Project: 
 
 **Title**: *An LSTM You Can Count On: Learning Randomized Counting With LSTMs.*
+
 **Authors**: Avi Swartz, Dimitar Karev, Mark Kong
 
 The notebooks correspond with the paper sections as follows:
