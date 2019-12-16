@@ -5,6 +5,7 @@ Here is the code for the CS 281 Final Project:
 **Authors**: Avi Swartz, Dimitar Karev, Mark Kong
 
 The notebooks correspond with the paper sections as follows:
+
 |Section| Notebook |
 |--|--|
 | 2.2 | 01, 02 |
